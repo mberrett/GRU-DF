@@ -1,4 +1,4 @@
-Using Keras library—a more accessible version of TensorFlow—to test different parameters:
+I used Keras to iterate optimize model parameters, since it's easier and quicker to implement than TensorFlow. 
 
 - Optimizer
 - RNN Model
